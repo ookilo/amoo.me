@@ -2,4 +2,4 @@
 name = amoo.me
 
 [servers.ghpages]
-target = ghpages://ookilo/amoo.me
+target = ghpages+https://ookilo/amoo.me
