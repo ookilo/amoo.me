@@ -1,2 +1,5 @@
 [project]
 name = amoo.me
+
+[servers.ghpages]
+target = ghpages://ookilo/amoo.me
