@@ -1,7 +1,105 @@
-title: About this Website
+title: Devices
 ---
 body:
 
-This is a website that was made with the Lektor quickstart.
+### Monitors
+* GeChic ON-LAP 1002
+ - 2015-09-01 ~
+ - 10.1-inch, 1280x800, 1080p 60Hz, Portable
 
-And it does not contain a lot of information.
+### Computers
+
+#### PC
+duration                | hostname
+------------------------|---------
+2011-11-24 ~ 2014-04-02 | Silverstone
+2014-04-02 ~            | **Sahkir**
+
+* CPU: Intel Core i7-2600K Sandy Bridge
+ - Zalman CNPS9900 MAX Blue
+* RAM: Samsung DDR3 4G PC3-10600 * 4EA
+* M/B: Gigabyte GA-Z68MX-UD2H
+* VGA: Radeon HD6870 DD Edition D5 1GB XFX
+* CASE: SilverStone FT03B
+ - APACHI XFAN 120U 오렌지
+* POWER: SeaSonic X-850W 80PLUS GOLD
+* SSD: Samsung 830 Series 128GB, MZ-7PC128D/KR
+
+duration     | device
+-------------|-------
+2011-  -   ~ | Logitech G5 Laser Mouse
+2014-04-24 ~ | Skydigital nKEYBOARD mechanic LED (레드, 적축)
+
+* NANO SMART PC CK-STK01P
+ - 2015-09-01 ~
+ - Intel Atom Z3735F Baytrail, DDR3L 2GB, 32GB eMMC
+
+* Dell Venue 11 Pro 7140
+ - 2015-12-31 ~
+ - Intel Core M 5Y10c, LPDDR3 4G 1600MHz, 128GB SSD
+ - 10.8-inch, 1920x1080
+
+#### IBM X32
+duration     |
+-------------|-
+2008-04-19 ~ |
+
+* Intel Pentium M 745 Centrino, DDR 2G RAM, 60GB HDD
+* 12.1-inch, 1024x768
+* IBM ThinkPad X3 UltraBase-46P7912
+
+#### MacBook Air
+duration     |
+-------------|-
+2011-01-11 ~ |
+
+* Late 2010
+* Intel Core 2 Duo 1.86GHz, DDR3 4GB 1066MHz, 128GB SSD
+* 13-inch, 1440x900
+
+#### ~~HP MINI 5101 VK312PA~~
+duration                |
+------------------------|-
+2009-09-06 ~ 2015-12-24 | 분해파기
+
+* Intel Atom N280, DDR2 2GB RAM, 128GB SSD
+* 10.1-inch, 1366x768
+
+### Office
+duration     | device
+-------------|-------
+2013-08-15 ~ | Leopold 660c 한글 블랙
+2013-08-15 ~ | Logitech m660
+2016-01-04 ~ | (주)현산정보 ANAPA Pro Wireless NT
+
+### Mobile
+duration                | device                |
+------------------------|-----------------------|-------
+2010-09-15 ~ 2014-01-29 | ~~iPhone4 16G Black~~ | 중고판매
+2013-06-05 ~ 2014-02-02 | ~~Nexus 4 16G~~       | 양도(아버지)
+2013-11-28 ~            | iPhone5s 64G Silver   |
+2012-04-24 ~ 2015-01-29 | ~~iPad Wi-Fi 64G White 3rd~~                 | 중고판매
+2014-01-06 ~ 2015-01-29 | ~~iPad mini Retina Wi-Fi 32G Spacegray 2nd~~ | 중고판매
+2015-01-29 ~            | iPad Air 2 LTE 128G Silver 6th               |
+
+### Entertainment
+duration                | device                |
+------------------------|-----------------------|-------
+2008-03-10 ~ | PlayStation Portable 2000 Silver |
+2010-06-11 ~ | PlayStation3 Slim 120G 차콜블랙   |
+
+### Camera
+#### Sony NEX-5
+duration                | device                |
+------------------------|-----------------------|-------
+2010-10-19 ~ | SONY NEX-5
+2010-10-19 ~ | SEL16F28, 16mm, F2.8 | Bundle
+2010-10-19 ~ | SEL1855, 18~55mm, F3.5-5.6 | Bundle
+2012-09-24 ~ | SEL55200, 55-200mm, F4.5-6.3 OSS
+
+### ETC
+duration                | device                |
+------------------------|-----------------------|-------
+2011-09-21 ~ | FanVision G3 Standard |
+2014-01-23 ~ | Fitbit Flex Black |
+2015-10-23 ~ | Xiaomi Mi Band |
